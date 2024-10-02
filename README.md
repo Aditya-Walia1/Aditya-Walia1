@@ -1,4 +1,3 @@
-Here's the enhanced version of your README with the link to your resume included. I've added more descriptive elements and organized it for better readability:
 
 ---
 
