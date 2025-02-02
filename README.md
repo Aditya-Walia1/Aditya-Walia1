@@ -1,59 +1,109 @@
-
----
-
 ![logo](https://github.com/Aditya-Walia1/Aditya-Walia1/blob/main/GithubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Aditya Walia</h1>
-<h3 align="center">3rd Year TIET CSE Student | Data Science Enthusiast | Passionate About Generative AI</h3>
+<h3 align="center">🚀 CSE@TIET'26 | Resilient Researcher | Visionary in AI & Data Science 🌟</h3>
 
-<p align="left"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=aditya-walia1&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-walia1" /> 
 </p>
 
-### 🔭 Current Projects and Research
-- I’m currently working on **Generative AI** and its applications in various fields.
-- Leading a research project in **EEG-based Consumer Behavior Analysis**, focusing on how brain signals can reveal consumer preferences.
-- Exploring **Time-Series Stock Prediction** using cutting-edge deep learning models like LSTM, GRU, and MARS.
+---
 
-### ✍️ Technical Writing
-- I regularly write articles on [Generative AI](#). Stay tuned for in-depth discussions on innovative applications, research, and future trends.
+### 🔥 **About Me**
+- 🎓 **Third-Year B.Tech Student in Computer Science Engineering** at Thapar Institute of Engineering and Technology (TIET), Class of 2026.
+- 💡 A passionate, hardworking, and relentless innovator with a drive to **tackle real-world challenges** using AI, ML, and cutting-edge technologies.
+- 🏋️ Tirelessly pushing boundaries in **EEG-based Consumer Behavior Research**, **Generative AI**, and **Time-Series Forecasting** to leave a mark in the AI domain.
+- 💼 Known for combining creativity, discipline, and confidence to build **impactful projects** and **state-of-the-art solutions**.
 
-### 📄 Know About My Experiences
-- Check out my [Resume](https://drive.google.com/file/d/16hhfztmtX-RfzO5fbTZDEXJJngstszUM/view?usp=sharing).
+---
 
-### 📫 How to Reach Me
-- Feel free to reach out via **[waliaaditya82@gmail.com](mailto:waliaaditya82@gmail.com)** for collaborations, discussions, and project ideas.
+### 🏆 **My Highlights**
+- 📜 **Research Enthusiast**: Led studies on optimizing **BERT models** using Optuna and authored impactful manuscripts.
+- 🔬 **Trailblazing Research**: Pioneered **context-aware NLP** and **advanced stock prediction models**, reflecting my quest for excellence.
+- 💪 An unshakable belief in **continuous learning** fuels my confident, "never back down" attitude.
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://kaggle.com/aditya walia 01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/aditya_walia01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/waliaad8cda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
+---
+
+### 🌟 **My Values**
+> "Success doesn’t come to you; you go to it." 
+
+I don’t believe in luck; I believe in effort, perseverance, and taking action. If there's a challenge, I'm the kind of person who thrives on solving it.
+
+---
+
+### 🌱 **What I’m Exploring Right Now**
+- 🤖 **Generative AI** for multimodal tasks.
+- 🧬 Novel **signal processing techniques** for EEG data analysis.
+- 🔎 Building hybrid models for **time-series forecasting** and predictive analytics.
+
+---
+
+### 📘 **My Technical Arsenal**
+#### **Languages:**
+- Python, C++, C, R, MATLAB, JavaScript
+
+#### **Frameworks & Libraries:**
+- TensorFlow, PyTorch, Scikit-learn, Hugging Face, Optuna, LangChain
+
+#### **Databases:**
+- MySQL, Neo4j, MongoDB, Oracle
+
+#### **Specialized Tools:**
+- Dask, Docker, Kubernetes, AWS, Google Cloud, MATLAB, EEGLAB
+
+#### **Expertise:**
+- Deep Learning, Time Series Forecasting, Link Prediction, EEG Signal Processing, Generative AI
+
+---
+
+### 🚀 **Projects That Define Me**
+- 🧠 **EEG-Based Consumer Behavior Analysis**: Using neural signals to unlock insights into consumer preferences and emotional responses.
+- 📊 **Time-Series Stock Prediction**: Pioneered financial prediction models using datasets from **Apple** and **Amazon** with LSTM, GRU, and MARS.
+- 🌍 **Context-Aware NLP**: Revolutionized geospatial query understanding through cutting-edge NLP.
+- 🖼️ **Lock Screen Validation System**: Developing AI to validate lock screen visuals and detect overlapping or offensive elements.
+- 📜 **Fake News Detection**: Comparative analysis of BERT models for combatting misinformation.
+
+---
+
+### 🎯 **What Sets Me Apart?**
+- 🌟 I don’t just work on problems; I **own** them, approach them with grit, and deliver innovative solutions.
+- 💡 **Confidence and Vision**: Every project I take on reflects my belief in **pushing boundaries** and redefining standards.
+- 🚀 A relentless commitment to growth, with an attitude that says: "If it’s tough, it’s worth it."
+
+---
+
+### 🌟 **Connect With Me**
+<p align="center">
+  <a href="https://kaggle.com/aditya_walia01" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/aditya_walia01" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/waliaad8cda" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
+  </a>
+  <a href="mailto:waliaaditya82@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
 </p>
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+---
+
+### 🛠️ **Tech Stack & Tools**
+<p align="center">
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow" />
+  <img src="https://img.icons8.com/color/48/pytorch.png" alt="PyTorch" />
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/ios-filled/50/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/google-cloud.png" alt="Google Cloud" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
+</p>
+
+---
+
+
+
+If you’re here, know that I’m always ready for collaboration, brainstorming, and creating something extraordinary. Let's build the future, one innovation at a time. 🚀
