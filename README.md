@@ -10,7 +10,7 @@
 ---
 
 ### 🔥 **About Me**
-- 🎓 **Third-Year B.Tech Student in Computer Science Engineering** at Thapar Institute of Engineering and Technology (TIET), Class of 2026.
+- 🎓 **Fourth year B.Tech Student in Computer Science Engineering** at Thapar Institute of Engineering and Technology (TIET), Class of 2026.
 - 💡 A passionate, hardworking, and relentless innovator with a drive to **tackle real-world challenges** using AI, ML, and cutting-edge technologies.
 - 🏋️ Tirelessly pushing boundaries in **EEG-based Consumer Behavior Research**, **Generative AI**, and **Time-Series Forecasting** to leave a mark in the AI domain.
 - 💼 Known for combining creativity, discipline, and confidence to build **impactful projects** and **state-of-the-art solutions**.
